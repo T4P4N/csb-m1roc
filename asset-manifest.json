@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://t4p4n.github.io/csb-m1roc/static/css/main.dcb087ec.chunk.css",
+    "main.js": "https://t4p4n.github.io/csb-m1roc/static/js/main.66c31609.chunk.js",
+    "main.js.map": "https://t4p4n.github.io/csb-m1roc/static/js/main.66c31609.chunk.js.map",
+    "runtime-main.js": "https://t4p4n.github.io/csb-m1roc/static/js/runtime-main.c608a7e2.js",
+    "runtime-main.js.map": "https://t4p4n.github.io/csb-m1roc/static/js/runtime-main.c608a7e2.js.map",
+    "static/js/2.666a38db.chunk.js": "https://t4p4n.github.io/csb-m1roc/static/js/2.666a38db.chunk.js",
+    "static/js/2.666a38db.chunk.js.map": "https://t4p4n.github.io/csb-m1roc/static/js/2.666a38db.chunk.js.map",
+    "index.html": "https://t4p4n.github.io/csb-m1roc/index.html",
+    "static/css/main.dcb087ec.chunk.css.map": "https://t4p4n.github.io/csb-m1roc/static/css/main.dcb087ec.chunk.css.map",
+    "static/js/2.666a38db.chunk.js.LICENSE.txt": "https://t4p4n.github.io/csb-m1roc/static/js/2.666a38db.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c608a7e2.js",
+    "static/js/2.666a38db.chunk.js",
+    "static/css/main.dcb087ec.chunk.css",
+    "static/js/main.66c31609.chunk.js"
+  ]
+}
